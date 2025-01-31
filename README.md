@@ -1,6 +1,6 @@
 # 🌟 ¡Bienvenido a Mi Repositorio de GitHub! 🌟
 
-![Bienvenida](https://media.giphy.com/media/l0HUqsz2jdQYElRm0/giphy.gif)
+![Bienvenida](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/cool-gifs-for-github.gif)
 
 ## 👋 Acerca de Mí
 
