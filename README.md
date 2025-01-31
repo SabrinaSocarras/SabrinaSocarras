@@ -11,8 +11,6 @@ Apasionada por aprender todo lo nuevo que pueda cada dia.
 
 ## 🚀 Tecnologías y Herramientas
 
-![Tecnologías](assets/images/showcase 4.gif)
-
 - **Lenguajes de Programación**: C#
 - **Herramientas**: GitHub 
 
